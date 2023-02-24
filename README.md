@@ -8,3 +8,9 @@
   - SQL Server(MSSQL)
     - [[MSSQL]SELECT INTO문을 통한 임시테이블 생성(SELECT INTO절)](https://goldswan.tistory.com/10)
     - [[MSSQL]ISNUMERIC을 이용한 숫자, 문자 판단 및 주의사항](https://goldswan.tistory.com/12)
+
+- Web
+  - .NET Core
+    - [[.NET Core]Docker 디버깅 “디버그 어탭터를 시작하지 못했습니다.” 에러 발생 시 해결 방법(feat. Chat GPT?)](https://goldswan.tistory.com/58)
+    - [[.NET Core]유효성 에러 메세지가 뜨지 않는 Input validation 오류 해결(FluentValidation)](https://goldswan.tistory.com/57)
+    - [[.NET Core]JSON 전송시 Controller param null 에러 해결](https://goldswan.tistory.com/53)
