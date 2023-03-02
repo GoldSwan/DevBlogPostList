@@ -21,7 +21,13 @@
     - [[MSSQL]SELECT, WHERE, ORDER BY절에서 CASE문 활용하기(SELECT CASE, WHERE CASE, ORDER BY CASE)](https://goldswan.tistory.com/14)
     - [[MSSQL]ISNUMERIC을 이용한 숫자, 문자 판단 및 주의사항](https://goldswan.tistory.com/12)
     - [[MSSQL]SELECT INTO문을 통한 임시테이블 생성(SELECT INTO절)](https://goldswan.tistory.com/10)
-    
+  - Oracle
+    - [[Oracle]계층형 쿼리 사용법(START WITH, CONNECT BY PRIOR, ORDER SIBLINGS BY)](https://goldswan.tistory.com/36)
+    - [[Oracle]실행계획 해석_인덱스 관련](https://goldswan.tistory.com/33)
+    - [[Oracle]SIGN 함수 사용법 및 예제](https://goldswan.tistory.com/27)
+    - [[Oracle]TRUNC 함수 사용법 및 예제](https://goldswan.tistory.com/26)
+    - [[Oracle]NTILE 함수 사용법 및 예제](https://goldswan.tistory.com/25)
+    - [[Oracle]SQL PLUS에서 결과 테이블 열 늘리기(Run SQL Command Line)](https://goldswan.tistory.com/23)
 - Web
   - .NET Core
     - [[.NET Core]Docker 디버깅 “디버그 어탭터를 시작하지 못했습니다.” 에러 발생 시 해결 방법(feat. Chat GPT?)](https://goldswan.tistory.com/58)
