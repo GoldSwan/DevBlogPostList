@@ -28,6 +28,9 @@
     - [[Oracle]TRUNC 함수 사용법 및 예제](https://goldswan.tistory.com/26)
     - [[Oracle]NTILE 함수 사용법 및 예제](https://goldswan.tistory.com/25)
     - [[Oracle]SQL PLUS에서 결과 테이블 열 늘리기(Run SQL Command Line)](https://goldswan.tistory.com/23)
+  - SQL 튜닝
+    - [[SQL 튜닝] Index Range Scan을 통한 SQL 성능 개선 사례](https://goldswan.tistory.com/49)
+    - [[SQL 튜닝]스칼라 서브쿼리 튜닝하기](https://goldswan.tistory.com/39)
 - Web
   - .NET Core
     - [[.NET Core]Docker 디버깅 “디버그 어탭터를 시작하지 못했습니다.” 에러 발생 시 해결 방법(feat. Chat GPT?)](https://goldswan.tistory.com/58)
