@@ -43,3 +43,7 @@
     - [[.NET Core]Docker 디버깅 “디버그 어탭터를 시작하지 못했습니다.” 에러 발생 시 해결 방법(feat. Chat GPT?)](https://goldswan.tistory.com/58)
     - [[.NET Core]유효성 에러 메세지가 뜨지 않는 Input validation 오류 해결(FluentValidation)](https://goldswan.tistory.com/57)
     - [[.NET Core]JSON 전송시 Controller param null 에러 해결](https://goldswan.tistory.com/53)
+  - Selenium
+    - [[Selenium]웹 자동화를 위한 Selenium 개발 환경 구축3 - 웹탐색, 데이터 추출(feat. cssSelector)](https://goldswan.tistory.com/24)
+    - [[Selenium]웹 자동화를 위한 Selenium 개발 환경 구축2(feat. WebDriver 설치)](https://goldswan.tistory.com/20)
+    - [[Selenium]웹 자동화를 위한 Selenium 개발 환경 구축1(feat. Maven)](https://goldswan.tistory.com/17)
